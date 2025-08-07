@@ -89,12 +89,7 @@ aws deploy create-deployment --application-name sampleapp --s3-location bucket=y
 
 | Screenshot | Description |
 |------------|-------------|
-| ![](screenshots/screenshot-1.png) | IAM Role Creation |
-| ![](screenshots/screenshot-2.png) | CodeDeploy Agent Installation |
-| ![](screenshots/screenshot-3.png) | S3 Upload Confirmation |
-| ![](screenshots/screenshot-4.png) | Application Creation in CodeDeploy |
-| ![](screenshots/screenshot-5.png) | Deployment Group Setup |
-| ![](screenshots/screenshot-6.png) | Web Page Output after Deployment |
+![Architecture Diagram](./AWS-CodeDeploy-Diagram.png)
 
 ---
 

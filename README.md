@@ -89,7 +89,8 @@ aws deploy create-deployment --application-name sampleapp --s3-location bucket=y
 
 | Screenshot | Description |
 |------------|-------------|
-![Architecture Diagram]([./AWS-CodeDeploy-Diagram.png](https://github.com/karthickraja12m/aws-codedeploy-ec2-project/blob/68ab1ff068fc772ffc545fda4229351d8f69b0f8/AWS_CodeDeploy_Pipeline_screenshots.pdf))
+![image alt]([./AWS-CodeDeploy-Diagram.png](https://github.com/karthickraja12m/aws-codedeploy-ec2-project/blob/68ab1ff068fc772ffc545fda4229351d8f69b0f8/AWS_CodeDeploy_Pipeline_screenshots.pdf))
+![image alt] (https://github.com/karthickraja12m/aws-codedeploy-ec2-project/blob/c4db87f8d6c0dcc9d774aaed9245cb43001ab7e9/workflow_new.png)
 
 ---
 
